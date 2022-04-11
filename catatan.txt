@@ -1,0 +1,11 @@
+
+456789|nik|2022-03-11|bank bri|jawa|
+123456789|nik|2022-03-25|cinta sejati|labura|46,8
+1111110101|nik|2022-03-15|SMK Taruna Tekno Nusantara|Sumatera Utara|36.4
+6789|nik|2022-04-09|ipdn|jakarta|5.6
+55555|nik|2022-04-12|staan|jakarta barat|34
+65432|nik|2022-04-30|pln|indonesia|22
+567890|nik|2022-04-10|pesantren|labura|45
+123456|nik|2022-04-11|dinas komunikasi informatika|binjai|36
+1234567|nik|2022-04-11|dinas komunikasi informatika|binjai|36
+111111|nik|2022-04-06|desa|ladang|3,5
